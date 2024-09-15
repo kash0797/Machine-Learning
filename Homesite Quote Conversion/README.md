@@ -14,3 +14,5 @@ This project aims to address imbalanced classification problems through the use 
 - **Stacking** is an advanced ensemble method where predictions from different models are combined to create a new model, resulting in more accurate predictions.
 - The project will use at least five different models (e.g., decision tree, random forest, support vector machines, multilayer perceptron, and K-nearest neighbors) and combine their predictions using one-layer stacking.
 - **Hyperparameter tuning** will be performed on the stacked model to further optimize performance.
+
+### DATASET: https://www.kaggle.com/c/homesite-quote-conversion/data
