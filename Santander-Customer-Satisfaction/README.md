@@ -3,4 +3,3 @@ The Santander Customer Satisfaction dataset presents a unique set of challenges 
 The high dimensionality of the dataset further complicates the modeling process, increasing the risk of overfitting and making the selection of relevant features challenging. The absence of clear feature descriptions hinders the application of domain knowledge, which is often crucial for effective feature engineering.
 
 In summary, the Santander Customer Satisfaction prediction task is a complex machine learning problem, demanding careful handling of imbalanced data, meticulous model evaluation, and thoughtful feature selection and engineering. Addressing these challenges is essential for developing a model that not only performs well but also generalizes effectively to unseen data, ensuring reliable identification of both satisfied and unsatisfied customers.
-![image](https://github.com/user-attachments/assets/093da07a-5662-40de-a9a9-173222faef18)
