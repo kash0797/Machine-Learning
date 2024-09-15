@@ -10,3 +10,12 @@ campaign to sell term deposits to their customers. You can think of it as cross-
 mostly based on phone calls and the dataset stores general information about customers, details of
 contacts made with them and the output variable y which indicates whether a term deposit was subscribed
 to by the customer or not. 
+
+
+Exploratory Data Analysis (EDA) & Pre-Processing: Initial data exploration and preprocessing steps to clean and transform the dataset for model training.
+
+Basic Decision Tree Model: A simple decision tree classifier is implemented and evaluated on the dataset to serve as a baseline model.
+
+Random Search for Decision Tree: Hyperparameter tuning is performed using RandomizedSearchCV to find the optimal parameters for the decision tree model.
+
+Grid Search for Decision Tree: A more exhaustive search using GridSearchCV is carried out to fine-tune the decision tree's performance further.
