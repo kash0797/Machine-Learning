@@ -5,8 +5,7 @@ This repository contains a collection of machine learning projects addressing va
 ## Key Concepts Covered:
 1. **Imbalanced Data Handling**: Techniques like **SMOTE** to balance datasets and improve minority class predictions.
 2. **EDA & Preprocessing**: Data cleaning, encoding, and feature engineering to prepare datasets for modeling.
-3. **Classification & Regression Models**:
-   - Models like **Decision Trees**, **KNN**, **SVM**, **MLP**, **Random Forest**, and **Gradient Boosting** are applied.
+3. **Classification & Regression Models**: Models like **Decision Trees**, **KNN**, **SVM**, **MLP**, **Random Forest**, and **Gradient Boosting** are applied.
 4. **Hyperparameter Tuning**: **RandomizedSearchCV** and **GridSearchCV** used to optimize model performance.
 5. **Ensemble Learning & Stacking**: Combining models for better predictions using **stacking** and **majority voting**.
 6. **Evaluation Metrics**: Metrics such as **precision**, **recall**, **F1 score**, and **ROC-AUC** are used to ensure balanced performance.
