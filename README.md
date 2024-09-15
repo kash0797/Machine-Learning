@@ -1,6 +1,6 @@
 # Machine Learning Projects Overview
 
-This repository contains a collection of machine learning projects addressing various real-world problems using classification, regression, and ensemble learning techniques.
+This repository contains a collection of machine learning **Kaggle** projects addressing various real-world problems using classification, regression, and ensemble learning techniques.
 
 ## Key Concepts Covered:
 1. **Imbalanced Data Handling**: Techniques like **SMOTE** to balance datasets and improve minority class predictions.
