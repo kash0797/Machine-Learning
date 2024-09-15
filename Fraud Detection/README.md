@@ -1,15 +1,21 @@
-A large number of problems in data mining are related to fraud detection. Fraud is a common problem in
-auto insurance claims, health insurance claims, credit card transactions, financial transaction and so on.
-The data in this particular case comes from an actual auto insurance company. Each record represents an
-insurance claim. The last column in the table tells you whether the claim was fraudulent or not. 
+# Fraud Detection in Auto Insurance Claims
 
+## Overview
 
-This project focuses on detecting fraudulent transactions using various machine learning techniques. It demonstrates a step-by-step approach for building, tuning, and evaluating classification models for fraud detection, highlighting the following key components:
+Fraud detection is a critical challenge in many industries, including auto insurance claims, health insurance claims, credit card transactions, and financial transactions. This project focuses on detecting fraudulent transactions in auto insurance claims using various machine learning techniques. The dataset comes from an actual auto insurance company, with each record representing an insurance claim. The final column indicates whether the claim is fraudulent or not.
 
-**Exploratory Data Analysis (EDA) & Pre-Processing:** Initial data exploration and preprocessing steps to clean and transform the dataset for model training.
+## Project Focus
 
-**Basic Decision Tree Model:** A simple decision tree classifier is implemented and evaluated on the dataset to serve as a baseline model.
+This project demonstrates a step-by-step approach to building, tuning, and evaluating classification models for fraud detection, with the following key components:
 
-**Random Search for Decision Tree:** Hyperparameter tuning is performed using RandomizedSearchCV to find the optimal parameters for the decision tree model.
+### 1. Exploratory Data Analysis (EDA) & Pre-Processing
+Initial data exploration and preprocessing steps are performed to clean and transform the dataset for model training.
 
-**Grid Search for Decision Tree:** A more exhaustive search using GridSearchCV is carried out to fine-tune the decision tree's performance further.
+### 2. Basic Decision Tree Model
+A simple decision tree classifier is implemented and evaluated on the dataset as a baseline model for fraud detection.
+
+### 3. Random Search for Decision Tree
+Hyperparameter tuning is conducted using **RandomizedSearchCV** to identify the optimal parameters for the decision tree model.
+
+### 4. Grid Search for Decision Tree
+An exhaustive search using **GridSearchCV** is carried out to further fine-tune the performance of the decision tree model.
