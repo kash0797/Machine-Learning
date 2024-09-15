@@ -16,6 +16,7 @@ This repository contains a collection of machine learning projects addressing va
 - **Cell Phone Churn Prediction**
 - **Fraud Detection in Auto Insurance Claims**
 - **House Price Prediction**
+- Homesite Quote Conversion
 - **Targeted Marketing Campaign Analysis**
 
 These projects demonstrate approaches to solving machine learning problems with a focus on feature engineering, model tuning, and robust evaluation.
