@@ -12,11 +12,11 @@ This repository contains a collection of machine learning projects addressing va
 6. **Evaluation Metrics**: Metrics such as **precision**, **recall**, **F1 score**, and **ROC-AUC** are used to ensure balanced performance.
 
 ## Projects:
-- **Santander Customer Satisfaction Prediction**
-- **Cell Phone Churn Prediction**
-- **Fraud Detection in Auto Insurance Claims**
-- **House Price Prediction**
+- Santander Customer Satisfaction Prediction
+- Cell Phone Churn Prediction
+- Fraud Detection in Auto Insurance Claims
+- House Price Prediction
 - Homesite Quote Conversion
-- **Targeted Marketing Campaign Analysis**
+- Targeted Marketing Campaign Analysis
 
 These projects demonstrate approaches to solving machine learning problems with a focus on feature engineering, model tuning, and robust evaluation.
