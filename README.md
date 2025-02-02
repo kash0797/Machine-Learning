@@ -1,6 +1,8 @@
 # Machine Learning Projects part of coursework.
 School: W.P. Carey School of Business, Arizona State University
+
 Degree: MS Business Analytics
+
 Course: CIS508
 
 # Machine Learning Kaggle Projects Overview
